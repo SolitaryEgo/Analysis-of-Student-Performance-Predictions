@@ -111,4 +111,4 @@ for name, model in models.items():
     r2 = r2_score(y_test, y_pred)
     print(f'{name}: MSE = {mse:.2f}, R^2 = {r2:.2f}')
 
-#  https://www.kaggle.com/datasets/haseebindata/student-performance-predictions/data
+
